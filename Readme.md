@@ -41,3 +41,27 @@ A lightweight hardware profiling script designed for the Miyoo Flip console to m
 	Choose the second one.
 4. The Miyoo will kick you out of the file commander app and the profiler will be running in the background. Whenever you want to view the logfile,
 	just navigate back to /mnt/sdcard/app/miyoo355/` and it will be inside the `/profiler_logs` folder. 
+---
+
+## Troubleshooting
+
+### Common Issues
+
+1. No logs are generated:
+	-Ensure the script is executable.
+	-Check that the log directory exists and has write permissions.
+2. Metrics are missing or inaccurate:
+	-Verify the profiler paths inside the script.
+	-Ensure the correct firmware is installed.
+3. No Tracking currently for SOC metrics
+   -The script is not equipped to track SOC runtime metrics.
+   - The correct filepath is still unknown.
+  
+## Contribution
+	Contributions are welcome! If you'd like to improve the profiler, feel free to open issues or submit pull requests.
+
+## License
+	This project is licensed under the MIT License. See the LICENSE file for more details.
+ ## Contact
+ 	For questions or suggestions, reach out via GitHub issues or connect with me on my YouTube channel: The Silicon Foxx.
+
