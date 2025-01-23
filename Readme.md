@@ -58,10 +58,13 @@ A lightweight hardware profiling script designed for the Miyoo Flip console to m
    - The correct filepath is still unknown.
   
 ## Contribution
-	Contributions are welcome! If you'd like to improve the profiler, feel free to open issues or submit pull requests.
 
+Contributions are welcome! If you'd like to improve the profiler, feel free to open issues or submit pull requests. 
+You can also submit your logs and other info here: https://forms.gle/mZ7Qt2mQwEqiZqoz6 I'll do my best to analyze the data and come up with a sort of community performance profile on the device. 
 ## License
-	This project is licensed under the MIT License. See the LICENSE file for more details.
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
  ## Contact
- 	For questions or suggestions, reach out via GitHub issues or connect with me on my YouTube channel: The Silicon Foxx.
+ 
+ For questions or suggestions, reach out via GitHub issues or connect with me on my YouTube channel: The Silicon Foxx.
 
